@@ -4,7 +4,6 @@
 #
 #    make upgrade
 #
--e git+https://github.com/edx/codejail.git@4127fc4bd5775cc72aee8d7f0a70e31405e22439#egg=codejail  # via -r requirements/base.txt
 certifi==2020.12.5        # via -r requirements/base.txt, requests
 chardet==4.0.0            # via -r requirements/base.txt, requests
 dogstatsd-python==0.5.6   # via -r requirements/base.txt

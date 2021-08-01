@@ -10,8 +10,6 @@ import signal
 import sys
 import time
 
-from codejail import jail_code
-
 from .settings import get_manager_config_values, MANAGER_CONFIG_DEFAULTS
 
 
